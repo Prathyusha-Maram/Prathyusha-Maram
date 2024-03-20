@@ -1,4 +1,4 @@
-- 🔭 I’m currently pursuing Masters at Northwest Missouri State University
-- 🌱 I’m currently learning JAVA 
+- 🔭 Graduated Masters at Northwest Missouri State University
+- 🌱 Java Expertise
 - 📫 How to reach me: prathyu.maram@gmail.com
 - 😄 Pronouns: She/her
